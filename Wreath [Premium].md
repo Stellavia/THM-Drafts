@@ -43,6 +43,9 @@
 31. [COMMAND AND CONTROL - Empire - Interative Shell](#command-and-control---empire---interactive-shell)<br>
 32. [COMMAND AND CONTROL - Conclusion](#command-and-control---conclusion)<br>
 33. [PERSONAL PC - Enumeration](#personal-pc---enumeration)<br>
+  33.1 [How do Empire Modules work?](#how-do-empire-modules-work)<br>
+  33.2 [Upload/Download](#upload-download)<br>
+  33.3 [Local Scripts](#local scripts)<br>
 34. [PERSONAL PC - Pivoting](#personal-pc---pivoting)<br>
 35. [PERSONAL PC - The Wonders of Git](#personal-pc---the-wonders-of-git)<br>
 36. [PERSONAL PC - Website Code Analysis](#personal-pc---website-code-analysis)<br>
@@ -295,7 +298,7 @@
 
 
 ---
-><details><summary>❓What tool can be used to convert OpenSSH keys into PuTTY style keys?</summary>puttygen</details
+><details><summary>❓What tool can be used to convert OpenSSH keys into PuTTY style keys?</summary>puttygen</details>
 ---
 
 &nbsp;
@@ -489,10 +492,14 @@
 
 
 ---
-><details><summary>❓</summary></details>
-
-
-
+<!-- ADD HASH -->
+><details><summary>❓What is the Administrator password hash?</summary></details>
+---
+<!-- ADD HASH -->
+><details><summary>❓What is the NTLM password hash for the user "Thomas"?</summary></details>
+---
+><details><summary>❓What is Thomas' password?</summary>i<3ruby</details>
+---
 
 &nbsp;
 
@@ -504,7 +511,7 @@
 
 
 
-
+<!-- NO QUESTIONS -->
 
 &nbsp;
 
@@ -517,6 +524,7 @@
 
 
 
+<!-- NO QUESTIONS -->
 
 &nbsp;
 
@@ -530,6 +538,9 @@
 
 
 
+---
+><details><summary>❓Can we get an agent back from the git server directly (Aye/Nay)?</summary>Nay</details>
+---
 
 &nbsp;
 
@@ -541,6 +552,7 @@
 
 
 
+<!-- NO QUESTIONS -->
 
 &nbsp;
 
@@ -552,7 +564,7 @@
 
 
 
-
+<!-- NO QUESTIONS -->
 
 &nbsp;
 
@@ -563,7 +575,9 @@
 
 
 
-
+---
+><details><summary>❓Using the help command for guidance: in Empire CLI, how would we run the whoami command inside an agent?</summary>shell whoami</details>
+---
 
 &nbsp;
 
@@ -576,7 +590,7 @@
 
 
 
-
+<!-- NO QUESTIONS -->
 
 &nbsp;
 
@@ -589,6 +603,7 @@
 
 
 
+<!-- NO QUESTIONS -->
 
 &nbsp;
 
@@ -602,7 +617,7 @@
 
 
 
-
+<!-- NO QUESTIONS -->
 
 &nbsp;
 
@@ -618,6 +633,8 @@
 
 
 
+<!-- NO QUESTIONS -->
+
 &nbsp;
 
 # COMMAND AND CONTROL - Conclusion
@@ -629,7 +646,7 @@
 
 
 
-
+<!-- NO QUESTIONS -->
 
 &nbsp;
 
@@ -639,11 +656,16 @@
 
 
 
+## How do Empire Modules work?
+## Upload/Download
+## Local Scripts
 
 
 
 
-
+---
+><details><summary>❓Scan the top 50 ports of the last IP address you found in Task 17. Which ports are open (lowest to highest, separated by commas)?</summary>80,3389</details>
+---
 
 &nbsp;
 
@@ -656,7 +678,8 @@
 
 
 
-
+---
+><details><summary>❓</summary></details>
 
 
 &nbsp;
