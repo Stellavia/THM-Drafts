@@ -4,10 +4,10 @@
 
 1. [Introduction](#introduction)<br>
 2. [Immediate Actions - First Response](#immediate-actions---first-response)<br>
-3. [How did it happen? Identifying Attack Pattern](#how-did-it-happen-?-identifying-attack-pattern)<br>
-4. [Who did this? Locating an Infection Vector](#who-did-this-?-locating-an-infection-vector)<br>
-5. [How to get it back? Domain Takeback](#how-to-get-it-back-?-domain-takeback)<br>
-6. [Why did it happen? Common Misconfigurations](#why-did-it-happen-?-common-misconfigurations)<br>
+3. [How did it happen? Identifying Attack Pattern](#how-did-it-happen-identifying-attack-pattern)<br>
+4. [Who did this? Locating an Infection Vector](#who-did-this-locating-an-infection-vector)<br>
+5. [How to get it back? Domain Takeback](#how-to-get-it-back-domain-takeback)<br>
+6. [Why did it happen? Common Misconfigurations](#why-did-it-happen-common-misconfigurations)<br>
 7. [Post Recovery Actions](#post-recovery-actions)<br>
 
 &nbsp;
