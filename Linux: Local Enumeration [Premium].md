@@ -10,7 +10,7 @@
 6. [Unit 4 - SUID](#unit-4---suid)<br>
 7. [BONUS: Port Forwarding](#bonus-port-forwarding)<br>
 8. [Unit 5 - Automating scripts](#unit-5---automating-scripts)<br>
-9. [Resources and what is next?](#resources-and-what- is-next-?)<br>
+
 
 &nbsp;
 
