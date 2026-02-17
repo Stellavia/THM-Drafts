@@ -64,14 +64,64 @@
 
 # INTRO - Accessing the Network
 
+&nbsp;
+
+
+
+
+
+
+
+
+<!-- NO QUESTIONS -->
+
+&nbsp;
+
 # INTRO - Backstory
 
+&nbsp;
+
+
+
+
+
+
+
+
+
+<!-- NO QUESTIONS -->
+
+&nbsp;
 
 # INTRO - Brief
 
+&nbsp;
+
+
+
+
+
+
+
+
+<!-- NO QUESTIONS -->
+
+&nbsp;
 
 # WEBSERVER - Enumeration
 
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+&nbsp;
 
 ---
 ><details><summary>❓How many of the first 15000 ports are open on the target?</summary>4</details>
@@ -87,9 +137,24 @@
 ><details><summary>❓What is the CVE number for this exploit?</summary>CVE-2019-15107</details>
 ---
 
+&nbsp;
 
 # WEBSERVER - Exploitation
 
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+<!-- NO QUESTIONS -->
+
+&nbsp;
 
 ---
 ><details><summary>❓What user was the server running as?</summary>root</details>
@@ -100,45 +165,522 @@
 ><details><summary>❓What is the full path to this file?</summary>/root/.ssh/id_rsa</details>
 ---
 
+&nbsp;
+
 # PIVOTING - What is Pivoting?
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+<!-- NO QUESTIONS -->
+
+&nbsp;
+
 # PIVOTING - High-level Overview
+
+&nbsp;
+
+
+
+
+
+
+
+
+&nbsp;
+
+---
+><details><summary>❓Which type of pivoting creates a channel through which information can be sent hidden inside another protocol?</summary>Tunnelling</details>
+---
+><details><summary>❓Research: Not covered in this Network, but good to know about. Which Metasploit Framework Meterpreter command can be used to create a port forward?</summary>portfwd</details>
+---
+
+&nbsp;
+
 # PIVOTING - Enumeration
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+&nbsp;
+
+---
+><details><summary>❓What is the absolute path to the file containing DNS entries on Linux?</summary>/etc/resolv.conf</details>
+---
+><details><summary>❓What is the absolute path to the hosts file on Windows?</summary>C:\Windows\System32\drivers\etc\hosts</details>
+---
+><details><summary>❓How could you see which IP addresses are active and allow ICMP echo requests on the 172.16.0.x/24 network using Bash?</summary>for i in {1..255}; do (ping -c 1 172.16.0.${i} | grep "bytes from" &; done)</details>
+---
+
+&nbsp;
+
 # PIVOTING - Proxychains and Foxyproxy
+
+&nbsp;
+
+
+
+
+
+&nbsp;
+
 # PIVOTING - SSH Tunnelling and Port Forwarding
+
+&nbsp;
+
+
+
+
+
+&nbsp;
+
 # PIVOTING - plink.exe
+
+&nbsp;
+
+
+
+
+
+
+&nbsp;
+
 # PIVOTING - Socat
+
+&nbsp;
+
+
+
+
+
+
+&nbsp;
+
 # Pivoting - Chisel
+
+&nbsp;
+
+
+
+
+
+
+&nbsp;
+
 # Pivoting - sshuttle
+
+&nbsp;
+
+
+
+
+
+
+
+&nbsp;
+
 # Pivoting - Conclusion
+
+&nbsp;
+
+
+
+
+
+
+
+&nbsp;
+
 # GIT SERVER - Enumeration
+
+&nbsp;
+
+
+
+
+
+
+
+
+&nbsp;
+
 # GIT SERVER - Pivoting
+
+&nbsp;
+
+
+
+
+
+
+&nbsp;
+
 # GIT SERVER - Code Review
+
+&nbsp;
+
+
+
+
+
+
+
+&nbsp;
+
 # GIT SERVER - Exploitation
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+&nbsp;
+
 # GIT SERVER - Stabilisation and Post Exploitation
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+&nbsp;
+
 # COMMAND AND CONTROL - Introduction
+
+&nbsp;
+
+
+
+
+
+
+
+&nbsp;
+
 # COMMAND AND CONTROL - Empire - Installation
+
+&nbsp;
+
+
+
+
+
+
+
+&nbsp;
+
 # COMMAND AND CONTROL - Empire - Overview
+
+&nbsp;
+
+
+
+
+
+
+
+
+&nbsp;
+
 # COMMAND AND CONTROL - Empire - Listeners
+
+&nbsp;
+
+
+
+
+
+
+&nbsp;
+
 # COMMAND AND CONTROL - Empire - Stagers
+
+&nbsp;
+
+
+
+
+
+
+
+&nbsp;
+
 # COMMAND AND CONTROL - Empire - Agents
+
+&nbsp;
+
+
+
+
+
+
+&nbsp;
+
 # COMMAND AND CONTROL - Empire - Hop Listeners
+
+&nbsp;
+
+
+
+
+
+
+
+
+&nbsp;
+
 # COMMAND AND CONTROL - Git Server
+
+&nbsp;
+
+
+
+
+
+
+
+&nbsp;
+
 # COMMAND AND CONTROL - Empire - Modules
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+&nbsp;
+
 # COMMAND AND CONTROL - Empire - Interactive Shell
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+&nbsp;
+
 # COMMAND AND CONTROL - Conclusion
+
+&nbsp;
+
+
+
+
+
+
+
+
+&nbsp;
+
 # PERSONAL PC - Enumeration
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+&nbsp;
+
 # PERSONAL PC - Pivoting
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+&nbsp;
+
 # PERSONAL PC - The Wonders of Git
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+&nbsp;
+
 # PERSONAL PC - Website Code Analysis
+
+&nbsp;
+
+
+
+
+
+
+
+
+&nbsp;
+
 # PERSONAL PC - Exploit PoC
+
+&nbsp;
+
+
+
+
+
+
+
+
+&nbsp;
+
 # AV EVASION - Introduction
+
+&nbsp;
+
+
+
+
+
+
+
+
+&nbsp;
+
 # AV EVASION - AV Detection Methods
+
+&nbsp;
+
+
+
+
+
+
+
+
+&nbsp;
+
 # AV EVASION - PHP Payload Obfuscation
+
+&nbsp;
+
+
+
+
+
+
+
+
+&nbsp;
+
 # AV EVASION - Compiling Netcat and Reverse Shell
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+&nbsp;
+
 # AV EVASION - Enumeration
+
+&nbsp;
+
+
+
+
+
+
+
+
+&nbsp;
+
 # AV EVASION - Privilege Escalation
+
+&nbsp;
+
+
+
+
+
+
+
+
+&nbsp;
+
 # EXFILTRATION - Exfiltration Techniques and Post Exploitation
+
+&nbsp;
+
+
+
+
+
+
+
+&nbsp;
+
 # CONCLUSION - Debrief and Report
+
+&nbsp;
+
+
+
+
+
+
+
+
+&nbsp;
+
 # CONCLUSION - Final Thoughts
 
 &nbsp;
