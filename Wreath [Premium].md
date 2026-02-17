@@ -45,7 +45,7 @@
 33. [PERSONAL PC - Enumeration](#personal-pc---enumeration)<br>
   33.1 [How do Empire Modules work?](#how-do-empire-modules-work)<br>
   33.2 [Upload/Download](#upload-download)<br>
-  33.3 [Local Scripts](#local scripts)<br>
+  33.3 [Local Scripts](#local-scripts)<br>
 34. [PERSONAL PC - Pivoting](#personal-pc---pivoting)<br>
 35. [PERSONAL PC - The Wonders of Git](#personal-pc---the-wonders-of-git)<br>
 36. [PERSONAL PC - Website Code Analysis](#personal-pc---website-code-analysis)<br>
@@ -679,8 +679,9 @@
 
 
 ---
-><details><summary>❓</summary></details>
-
+<!-- ADD LONG TEXT -->
+><details><summary>❓</summary>PHP 7.4.11</details>
+---
 
 &nbsp;
 
@@ -691,7 +692,11 @@
 
 
 
+---
+><details><summary>❓Use your WinRM access to look around the Git Server. What is the absolute path to the Website.git directory?</summary>C:\Gitstack\Repositories\Website.git</details>
+---
 
+<!-- ADD LONG TEXT -->
 
 
 
@@ -705,9 +710,21 @@
 
 
 
+---
+><details><summary>❓Read through the file. What does Thomas have to phone Mrs Walker about?</summary>Neighbourhood Watch Meetings</details>
+---
 
+<!-- ADD LONG  TEXT -->
 
+---
+><details><summary>❓Aside from the filter, what protection method is likely to be in place to prevent people from accessing this page?</summary>Basic Auth</details>
+---
 
+<!-- ADD LONG TEXT -->
+
+---
+><details><summary>❓Which extensions are accepted (comma separated, no spaces or quotes)?</summary>jpg,jpeg,png,gif</details>
+---
 
 &nbsp;
 
@@ -719,7 +736,7 @@
 
 
 
-
+<!-- NO QUESTIONS -->
 
 
 &nbsp;
@@ -735,6 +752,17 @@
 
 
 
+
+
+
+---
+><details><summary>❓Which category of evasion covers uploading a file to the storage on the target before executing it?</summary>On-Disk Evasion</details>
+---
+><details><summary>❓What does AMSI stand for?</summary>Anti-Malware Scan Interface</details>
+---
+><details><summary>❓Which category of evasion does AMSI affect?</summary>In-Memory Evasion</details>
+---
+
 &nbsp;
 
 # AV EVASION - AV Detection Methods
@@ -745,8 +773,15 @@
 
 
 
-
-
+---
+><details><summary>❓What other name can be used for Dynamic/Heuristic detection methods?</summary>Behavioural</details>
+---
+><details><summary>❓If AV software splits a program into small chunks and hashes them, checking the results against a database, is this a static or dynamic analysis method?</summary>Static</details>
+---
+><details><summary>❓When dynamically analysing a suspicious file using a line-by-line analysis of the program, what would antivirus software check against to see if the behaviour is malicious?</summary>Pre-defined rules</details>
+---
+><details><summary>❓What could be added to a file to ensure that only a user can open it (preventing AV from executing the payload)?</summary>Password</details>
+---
 
 &nbsp;
 
@@ -760,6 +795,13 @@
 
 
 
+
+
+---
+><details><summary>❓What is the Host Name of the target?</summary>WREATH-PC</details>
+---
+><details><summary>❓What is our current username (include the domain in this)?</summary>wreath-pc\thomas</details>
+---
 
 &nbsp;
 
@@ -775,6 +817,9 @@
 
 
 
+---
+><details><summary>❓What output do you get when running the command: certutil.exe ?</summary>CertUtil: -dump command completed successfully.</details>
+---
 
 &nbsp;
 
@@ -788,6 +833,14 @@
 
 
 
+---
+<!-- ADD TEXT -->
+><details><summary>❓</summary>SelmpersonatePrivilege</details>
+---
+><details><summary>❓What is the Name (second column from the left) of this service?</summary>SystemExplorerHelpService</details>
+---
+><details><summary>❓Is the service running as the local system account (Aye/Nay)?</summary>Aye</details>
+---
 
 &nbsp;
 
@@ -800,7 +853,7 @@
 
 
 
-
+<!-- NO QUESTIONS -->
 
 &nbsp;
 
@@ -812,7 +865,15 @@
 
 
 
-
+---
+><details><summary>❓Is FTP a good protocol to use when exfiltrating data in a modern network (Aye/Nay)?</summary>Nay</details>
+---
+><details><summary>❓For what reason is HTTPS preferred over HTTP during exfiltration?</summary>Encryption</details>
+---
+<!-- LONG TEXT -->
+---
+><details><summary>❓What is the Administrator NT hash for this target?</summary>a05c3c807ceeb48c47252568da284cd2</details>
+---
 
 &nbsp;
 
@@ -827,6 +888,10 @@
 
 
 
+
+
+<!-- NO QUESTIONS -->
+
 &nbsp;
 
 # CONCLUSION - Final Thoughts
@@ -836,7 +901,4 @@
 <!-- NO QUESTIONS -->
 
 ---
-><details><summary>❓</summary></details>
----
 
-&nbsp;
