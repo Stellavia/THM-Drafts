@@ -1,16 +1,16 @@
-🔗 [Link to the Room]()
+🔗 [Link to the Room](https://tryhackme.com/room/lle)
 
 ## 🏷️Learn to efficiently enumerate a linux machine and identify possible weaknesses
 
-1. [Unit 1 - tty](#unit-1-tty)<br>
-2. [Unit 1 - ssh](#unit-1-ssh)<br>
-3. [Unit 2 - Basic enumeration](#unit-2-basic-enumeration)<br>
-4. [Unit 3 - /etc](#unit-3-etc)<br>
-5. [Unit 4 - Find command and interesting files](#unit-4-find-command-and-interesting-files)<br>
-6. [Unit 4 - SUID](#unit-4-suid)<br>
+1. [Unit 1 - tty](#unit-1---tty)<br>
+2. [Unit 1 - ssh](#unit-1---ssh)<br>
+3. [Unit 2 - Basic enumeration](#unit-2---basic-enumeration)<br>
+4. [Unit 3 - /etc](#unit-3---etc)<br>
+5. [Unit 4 - Find command and interesting files](#unit-4---find-command-and-interesting-files)<br>
+6. [Unit 4 - SUID](#unit-4---suid)<br>
 7. [BONUS: Port Forwarding](#bonus-port-forwarding)<br>
-8. [Unit 5 - Automating scripts](#unit-5-automating-scripts)<br>
-9. [Resources and what's next?](#resources0and-whats-next-?)<br>
+8. [Unit 5 - Automating scripts](#unit-5---automating-scripts)<br>
+9. [Resources and what is next?](#resources-and-what- is-next-?)<br>
 
 &nbsp;
 
@@ -184,7 +184,7 @@
 
 &nbsp;
 
-# Resources and what's next?
+# Resources and what is next?
 
 &nbsp;
 
