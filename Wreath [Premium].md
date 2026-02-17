@@ -322,10 +322,10 @@
 ><details><summary>❓Which socat option allows you to reuse the same listening port for more than one connection?</summary>reuseaddr</details>
 ---
 <!-- ADD THIS QUESTION AND ANSWER -->
-><details><summary>❓</summary></details
+><details><summary>❓</summary></details>
 ---
 <!-- ADD THIS QUESTION AND ANSWER -->
-><details><summary>❓</summary></details
+><details><summary>❓</summary></details>
 ---
 
 &nbsp;
