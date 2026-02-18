@@ -7,28 +7,29 @@
 2. [NTFS Components](#ntfs-components)<br>
   2.1 [Partition Boot Sector (PBS)](#partition-boot-sector-pbs)<br>
   2.2 [Master File Table (MFT)](#master-file-table-mft)<br>
-  2.3 [$MFTMirr](#$mftmirr)<br>
-  2.4 [System Files](#)<br>
-  2.5 [File Data Area](#)<br>
-  2.6 [Alternate Data Stream](#)<br>
-  2.7 [Indentifying the Artifacts](#)<br>
-  2.8 [Collecting the Artifacts](#)<br>
-3. [MFT Record Analysis](#)<br>
-  3.1 [Master File Table](#)<br>
-  3.2 [Examining the MFT Record](#)<br>
-  3.3 [Important Columns in the MFT Record](#)<br>
-  3.4 [MACB Time](#)<br>
-  3.5 [Why is the MACB Timestamp Important?](#)<br>
-4. [NTFS Journaling](#)<br>
-  4.1 [Types of NTFS Journals](#)<br>
-  4.2 [Examining the Updated Reason](#)<br>
-5. [Index Allocation Attribute ($130) Overview](#)<br>
-  5.1 [Index Allocation Attribute ($130)](#)<br>
-  5.2 [Slack Space](#)<br>
-  5.3 [Forensics Value](#)<br>
-  5.4 [Analyzing $130](#)<br>
-  5.5 [File Attributes in the $130](#)<br>
+  2.3 [$MFTMirr](#mftmirr)<br>
+  2.4 [System Files](#system-files)<br>
+  2.5 [File Data Area](#file-data-area)<br>
+  2.6 [Alternate Data Stream](#alternate-data-stream)<br>
+  2.7 [Identifying the Artifacts](#identifying-the-artifacts)<br>
+  2.8 [Collecting the Artifacts](#collecting-the-artifacts)<br>
+3. [MFT Record Analysis](#mft-record-analysis)<br>
+  3.1 [Master File Table](#master-file-table)<br>
+  3.2 [Examining the MFT Record](#examining-the-mft-record)<br>
+  3.3 [Important Columns in the MFT Record](#important-columns-in-the-mft-record)<br>
+  3.4 [MACB Time](#macb-time)<br>
+  3.5 [Why is the MACB Timestamp Important?](#why-is-the-macb-timestamp-important)<br>
+4. [NTFS Journaling](#ntfs-journaling)<br>
+  4.1 [Types of NTFS Journals](#types-of-ntfs-journals)<br>
+  4.2 [Examining the Updated Reason](#examining-the-updated-reason)<br>
+5. [Index Allocation Attribute ($130) Overview](#index-allocation-attribute-130-overview)<br>
+  5.1 [Index Allocation Attribute ($130)](#index-allocation-attribute-130)<br>
+  5.2 [Slack Space](#slack-space)<br>
+  5.3 [Forensics Value](#forensics-value)<br>
+  5.4 [Analyzing $130](#analyzing-130)<br>
+  5.5 [File Attributes in the $130](#file-attributes-in-the-130)<br>
 
+<img width="977" height="347" alt="image" src="https://github.com/user-attachments/assets/91f9ef79-80e0-4854-8053-585384b697b0" />
 
 &nbsp;
 
@@ -206,7 +207,7 @@
 
 &nbsp;
 
-## Indentifying the Artifacts
+## Identifying the Artifacts
 
 &nbsp;
 
@@ -348,7 +349,7 @@
 ---
 ><details><summary>❓What is the content of the flag.txt file?</summary>W**D***_Y**_F****_*3</details>
 ---
-><details><summary>❓What is the file name associated with the MFT entry number "584574"?</summary></details>
+><details><summary>❓What is the file name associated with the MFT entry number "584574"?</summary>SharpHound.ps1</details>
 ---
 
 &nbsp;
