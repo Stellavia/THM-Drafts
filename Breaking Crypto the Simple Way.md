@@ -10,12 +10,12 @@
   1.5 [Exercise](#exercise)<br>
 2. [Breaking Hashes](#breaking-hashes)<br>
   2.1 [Common Vulnerabilities in Hashing](#common-vulnerabilities-in-hashing)<br>
-  2.2 [SHA-256 Isn't ideal for Password Hashing](#sha256-isnt-ideal-for-password-hashing)<br>
+  2.2 [SHA-256 Isn't ideal for Password Hashing](#sha-256-isnt-ideal-for-password-hashing)<br>
   2.3 [Choosing the Right Hashing Function](#choosing-the-right-hashing-function)<br>
   2.4 [Challenge](#challenge)<br>
   2.5 [Solution](#solution)<br>
 3. [Exposed Keys](#exposed-keys)<br>
-  3.1 [Risks of Exposing Cryptographic Keys in Client-Side Code](#risks-of-exposing-cryptographic-keys-in-clientside-code)<br>
+  3.1 [Risks of Exposing Cryptographic Keys in Client-Side Code](#risks-of-exposing-cryptographic-keys-in-client-side-code)<br>
   3.2 [Common Scenarios of Key Exposure](#common-scenarios-of-key-exposure)<br>
   3.3 [Exercise](#exercise)<br>
   3.4 [Key Takeaways](#key-takeaways)<br>
