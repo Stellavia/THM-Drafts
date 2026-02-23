@@ -9,24 +9,24 @@
   4.1 [Something You Know](#something-you-know)<br>
   4.2 [Something You Have](#something-you-have)<br>
   4.3 [Something You Are](#something-you-are)<br>
-  4.4 [Multi-Factor Authentication (MFA)](#multi---factor-authentication-mfa)<br>
+  4.4 [Multi-Factor Authentication (MFA)](#multi-factor-authentication-mfa)<br>
 5. [Authorisation and Access Control](#authorisation-and-access-control)<br>
 6. [Accountability and Logging](#accountability-and-logging)<br>
   6.1 [Logging](#logging)<br>
-  6.2 [Logging and SIEM](#loggin-and-siem)<br>
+  6.2 [Logging and SIEM](#logging-and-siem)<br>
 7. [Identity Management](#identity-management)<br>
-  7.1 [Identity Management (IdM)](#identity0management-idm)<br>
-  7.2 [Identitity and Access Management (IAM)](#identity-and-access-management-iam)<br>
+  7.1 [Identity Management (IdM)](#identity-management-idm)<br>
+  7.2 [Identity and Access Management (IAM)](#identity-and-access-management-iam)<br>
 8. [Attacks Against Authentication](#attacks-against-authentication)<br>
   8.1 [Authentication in the Analogue World](#authentication-in-the-analogue-world)<br>
   8.2 [Authentication in the Digital World](#authentication-in-the-digital-world)<br>
   8.3 [Making the Challenge Response Unique](#making-the-challenge-response-unique)<br>
 9. [Access Control Models](#access-control-models)<br>
   9.1 [Discretionary Access Control](#discretionary-access-control)<br>
-  9.2 [Role-Based Access Control](#role---based-access-control)<br>
+  9.2 [Role-Based Access Control](#role-based-access-control)<br>
   9.3 [Mandator Access Control](#mandator-access-control)<br>
-10. [Single Sign-On](#single-sign---on)<br>
-11. [Scenarios](#scenarions)<br>
+10. [Single Sign-On](#single-sign-on)<br>
+11. [Scenarios](#scenarios)<br>
 
 &nbsp;
 
@@ -214,7 +214,7 @@
 
 &nbsp;
 
-## Identitity and Access Management (IAM)
+## Identity and Access Management (IAM)
 
 
 
