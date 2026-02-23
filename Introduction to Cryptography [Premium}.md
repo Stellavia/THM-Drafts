@@ -6,16 +6,16 @@
 1. [Introduction](#introduction)<br>
 2. [Symmetric Encryption](#symmetric-encryption)<br>
   2.1 [GNU Privacy Guard](#gnu-privacy-guard)<br>
-3. [Asymmetric Encryption](#asymmentric-encryption)<br>
+3. [Asymmetric Encryption](#asymmetric-encryption)<br>
   3.1 [Confidentiality](#confidentiality)<br>
   3.2 [Integrity, Authenticity, and Nonrepudiation](#integrity-authenticity-and-nonrepudiation)<br>
   3.3 [RSA](#rsa)<br>
-4. [Diffie-Hellman Key Exchange](#diffie---hellman-key-exchange)<br>
+4. [Diffie-Hellman Key Exchange](#diffie-hellman-key-exchange)<br>
 5. [Hashing](#hashing)<br>
   5.1 [HMAC](#hmac)<br>
-6. [PKI and SSL/TLS](#pki-and-ssl-tls)<br>
+6. [PKI and SSL/TLS](#pki-and-ssltls)<br>
 7. [Authenticating with Passwords](#authenticating-with-passwords)<br>
-8. [Cryptography and Data - Exampe](#cryptography-and-data---example)<br>
+8. [Cryptography and Data - Example](#cryptography-and-data---example)<br>
 
 &nbsp;
 
@@ -112,7 +112,7 @@
 ><details><summary>❓What is the original password?</summary>qwerty123</details>
 ---
 
-# Cryptography and Data - Exampe
+# Cryptography and Data - Example
 
 
 &nbsp;
