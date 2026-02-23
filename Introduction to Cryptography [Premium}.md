@@ -27,15 +27,40 @@
 
 # Introduction
 
+&nbsp;
+
+
+
+
+
+
+
+
+&nbsp;
+
 ---
 ><details><summary>❓You can guess that it is a quote. Who said it?</summary>Miyamoto Musashi</details>
 ---
 
+&nbsp;
+
 # Symmetric Encryption
 
+&nbsp;
 
+
+
+
+&nbsp;
 
 ## GNU Privacy Guard
+
+
+
+
+
+
+&nbsp;
 
 ---
 ><details><summary>❓Decrypt the file quote01 encrypted (using AES256) with the key s!kR3T55 using gpg. What is the third word in the file?</summary>waste</details>
@@ -45,15 +70,39 @@
 ><details><summary>❓Decrypt the file quote02 encrypted (using AES256-CBC) with the key s!kR3T55 using gpg. What is the third word in the file? </summary>understand</details>
 ---
 
+&nbsp;
 
 # Asymmetric Encryption
 
+&nbsp;
 
+
+
+
+
+&nbsp;
 
 ## Confidentiality
+
+
+
+
+&nbsp;
+
 ## Integrity, Authenticity, and Nonrepudiation
+
+
+
+
+&nbsp;
+
 ## RSA
 
+
+
+
+
+&nbsp;
 
 ---
 ><details><summary>❓Bob has received the file ciphertext_message sent to him from Alice. You can find the key you need in the same folder. What is the first word of the original plaintext?</summary>Perception</details>
@@ -63,11 +112,19 @@
 ><details><summary>❓Take a look at Bob's private RSA key. What is the last byte of q?</summary>27</details>
 ---
 
-
-
+&nbsp;
 
 # Diffie-Hellman Key Exchange
 
+&nbsp;
+
+
+
+
+
+
+
+&nbsp;
 
 ---
 ><details><summary>❓A set of Diffie-Hellman parameters can be found in the file dhparam.pem. What is the size o the prime number in bits?</summary>4096</details>
@@ -75,13 +132,30 @@
 ><details><summary>❓What is the prime number's last byte (least significant byte)?</summary>4f</details>
 ---
 
+&nbsp;
 
 # Hashing
 
+&nbsp;
+
+
+
+
+
+
+
+&nbsp;
 
 ## HMAC
 
 
+
+
+
+
+
+&nbsp;
+
 ---
 ><details><summary>❓</summary></details>
 ---
@@ -90,13 +164,19 @@
 ><details><summary>❓</summary></details>
 ---
 
-
-
-
+&nbsp;
 
 # PKI and SSL/TLS
 
+&nbsp;
 
+
+
+
+
+
+
+&nbsp;
 
 ---
 ><details><summary>❓What is the size of the public key in bits?</summary>4096</details>
@@ -104,16 +184,26 @@
 ><details><summary>❓Till which year is this certificate valid?</summary>2039</details>
 ---
 
+&nbsp;
 
 # Authenticating with Passwords
 
+&nbsp;
+
+
+
+
+
+
+&nbsp;
 
 ---
 ><details><summary>❓What is the original password?</summary>qwerty123</details>
 ---
 
-# Cryptography and Data - Example
+&nbsp;
 
+# Cryptography and Data - Example
 
 &nbsp;
 
