@@ -25,6 +25,7 @@
     7.2 [Windows Event Viewer](#windows-event-viewer)<br>
 8. [Monitoring](#monitoring)<br>
 9. [SIEM Basics](#siem-basics)<br>
+10. [BONUS](#bonus)<br>
 
 &nbsp;
 
@@ -353,5 +354,11 @@
 
 <!-- CONCLUSION HERE -->
 
+&nbsp;
+
+# BONUS
+
+After completing this room you will be rewarded with a new badge: Network and System Security!
 
 &nbsp;
+
